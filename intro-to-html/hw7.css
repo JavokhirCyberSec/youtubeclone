@@ -1,0 +1,83 @@
+
+.rounded-bar{
+    font-size: 18px;
+    padding-bottom: 5px;
+    padding-top: 5px;
+    padding-left: 7px;
+    color: rgb(0, 0, 0);
+    border-radius: 8px;
+    border-color: rgb(188, 187, 187);
+    border-style: solid;
+    margin-right: 300px;
+    margin-bottom: 20px;
+}
+.bar-with-shadow{
+    font-size: 20px;
+    color: rgb(0, 0, 0);
+    padding-right: 200px;
+    border-radius: 19px;
+    padding-left: 10px;
+    padding-bottom: 5px;
+    padding-top: 5px;
+    border-style: solid;
+    border-color: rgb(237, 237, 237);
+    box-shadow: 5px 5px 5px rgb(196, 196, 196);
+    margin-bottom: 20px;
+}
+.email{ font-family: Arial;
+        margin-bottom: 5px;
+    }
+.empty-box{
+    border-radius: 5px;
+    width: 250px;
+    height: 23px;
+    border-style: solid;
+    margin-bottom: 10px;
+}
+.text{
+    font-family: Arial;
+    font-size: 12px;
+    color: rgb(60, 58, 58);
+    margin-bottom: 10px;
+}
+.button{
+    text-align: center;
+    width: 250px;
+    height: 38px;
+    font-family: Arial;
+    color: white;
+    background-color: rgb(42, 104, 205);
+    border-radius: 18px;
+    border: none;
+    transition: opacity 0.7s;
+    margin-bottom: 50px;
+    margin-right: 400px;
+}.button:hover{ opacity: 0.8;}
+
+.tw-img{
+    width: 60px;
+    border-radius: 30px;
+    margin-right: 10px;
+    vertical-align: middle;
+}
+.message{
+    font-size: 22px;
+    vertical-align: middle;
+    padding-top: 5px;
+    color: grey;
+}
+.tweet-button{
+    margin-left: 200px;
+    width: 100px;
+    height: 30px;
+    border-radius: 15px;
+    background-color: rgb(77, 133, 202);
+    border: none;
+    color: white;
+    font-weight: bold;
+    transition: opacity 0.6s;
+}.tweet-button:hover{ opacity: 0.7;}
+.tweet-button:active{opacity: 0.5;}
+
+
+
